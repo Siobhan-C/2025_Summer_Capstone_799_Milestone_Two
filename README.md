@@ -1,10 +1,7 @@
 # 2025_Summer_Capstone_799_Milestone2
-DX799S O1 Data Science Capstone (Summer 1 2025) 
+DX799S O1 Data Science Capstone (Summer 1 2025) - Milestone 2 (Weeks 8-12) 
 
-Milestone 2 (Weeks 8-12) |
-
-
-Predicting Early Mortgage Delinquency
+## Topic: Predicting Early Mortgage Delinquency
 
 
 
@@ -17,5 +14,6 @@ Predicting Early Mortgage Delinquency
 ## Comments per week:
 #### Week 9 Notebook – Predicting Early Mortgage Delinquency
 This notebook shows my Week 9 review of the Home Credit dataset as part of my capstone project on predicting early mortgage delinquency. This notebook uses gradient boosting on the Home Credit Default Risk dataset, tuning learning rate, number of estimators, tree depth, and regularization parameters to improve model performance and support early delinquency prediction for my capstone project in mortgage lending.
+
 Source of data file Home Credit Default Risk: 
 - https://www.kaggle.com/competitions/home-credit-default-risk/data?select=HomeCredit_columns_description.csv
