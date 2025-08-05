@@ -9,7 +9,7 @@ This project was created as part of an assignment for DX799S O1 Data Science Cap
 - 8.2 Activity: Jupyter Notebook — K-Nearest Neighbors
 - 9.2 Activity: Jupyter Notebook — Gradient Boost
 - 10.2 Activity: Jupyter Notebook — Clustering: Part 1
-
+- 11.3 Activity: Jupyter Notebook — Clustering: Part 2
 
 
 
