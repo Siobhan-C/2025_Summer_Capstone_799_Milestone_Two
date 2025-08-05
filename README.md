@@ -2,15 +2,14 @@
 DX799S O1 Data Science Capstone (Summer 1 2025) - Milestone 2 (Weeks 8-12) 
 
 ## Topic: Predicting Early Mortgage Delinquency
-
+This project was created as part of an assignment for DX799S O1 Data Science Capstone (Summer 1 2025), Milestone 2.
+Week 8-11 Submission
 
 
 ## Workbooks to be uploaded to this repository (Milestone 2)
 - 8.2 Activity: Jupyter Notebook — K-Nearest Neighbors
 - 9.2 Activity: Jupyter Notebook — Gradient Boost
 - 10.2 Activity: Jupyter Notebook — Clustering: Part 1
-
-
 
 
 
@@ -31,3 +30,9 @@ Source of data file Home Credit Default Risk:
 #### Week 10 Jupyter Notebook – Clustering 1
 To be uploaded prior to Milestone 2 submission.
 
+
+
+### Overall Data Sources:
+Kaggle Home Credit Default Risk: https://www.kaggle.com/competitions/home-credit-default-risk/data (CSV: Kaggle_Home_Credit_Default_Risk__train.csv and application_train.csv)
+Give Me Some Credit: https://www.kaggle.com/c/GiveMeSomeCredit/overview
+Loan Data: https://www.kaggle.com/datasets/abhishek14398/loan-dataset
