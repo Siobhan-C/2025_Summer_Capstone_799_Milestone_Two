@@ -32,6 +32,6 @@ To be uploaded prior to Milestone 2 submission.
 
 
 ### Overall Data Sources:
-Kaggle Home Credit Default Risk: https://www.kaggle.com/competitions/home-credit-default-risk/data (CSV: Kaggle_Home_Credit_Default_Risk__train.csv and application_train.csv)
-Give Me Some Credit: https://www.kaggle.com/c/GiveMeSomeCredit/overview
-Loan Data: https://www.kaggle.com/datasets/abhishek14398/loan-dataset
+- Kaggle Home Credit Default Risk: https://www.kaggle.com/competitions/home-credit-default-risk/data (CSV: Kaggle_Home_Credit_Default_Risk__train.csv and application_train.csv)
+- Give Me Some Credit: https://www.kaggle.com/c/GiveMeSomeCredit/overview
+- Loan Data: https://www.kaggle.com/datasets/abhishek14398/loan-dataset
