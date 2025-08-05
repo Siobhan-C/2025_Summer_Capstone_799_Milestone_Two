@@ -1,9 +1,8 @@
 # 2025_Summer_Capstone_799_Milestone2
-DX799S O1 Data Science Capstone (Summer 1 2025) - Milestone 2 (Weeks 8-12) 
+DX799S O1 Data Science Capstone (Summer 1 2025) - Milestone 2 (Weeks 8-11) 
 
 ## Topic: Predicting Early Mortgage Delinquency
 This project was created as part of an assignment for DX799S O1 Data Science Capstone (Summer 1 2025), Milestone 2.
-Week 8-11 Submission
 
 
 ## Workbooks to be uploaded to this repository (Milestone 2)
